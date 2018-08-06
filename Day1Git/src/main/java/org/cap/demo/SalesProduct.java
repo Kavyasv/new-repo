@@ -1,7 +1,7 @@
 package org.cap.demo;
 
 public class SalesProduct {
-String names[]= {"toothpaste","soap","brush"};
+String names[]= {"shampoo","soap","cream"};
 
 public void show() {
 	for (String string : names) {

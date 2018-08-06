@@ -17,10 +17,11 @@ greet();
 	}
 public  static void greet() {
 	System.out.println("hi");
-	for(int i=1;i<3;i++) {
+	for(int i=1;i<5;i++) {
 	System.out.println("kavya");
 	System.out.println(" Hi I'm Ash!!!");
 	System.out.println("Ram");
+		System.out.println("Ramya");
 }
 	}
 }
