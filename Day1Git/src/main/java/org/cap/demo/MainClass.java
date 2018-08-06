@@ -6,6 +6,8 @@ public class MainClass {
 		SalesClass s=new SalesClass();
 		System.out.println("Hello world");
 		s.show();
+		s.show();
+		s.show();
 		
 greet();
 	}
