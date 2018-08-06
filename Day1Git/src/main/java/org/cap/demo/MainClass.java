@@ -20,6 +20,7 @@ public  static void greet() {
 	for(int i=1;i<3;i++) {
 	System.out.println("kavya");
 	System.out.println(" Hi I'm Ash!!!");
+	System.out.println("Ram");
 }
 	}
 }
